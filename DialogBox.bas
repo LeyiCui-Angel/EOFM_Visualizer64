@@ -1,4 +1,3 @@
-Attribute VB_Name = "DialogBox"
 '***************** Code Start **************
 ' This code was originally written by Ken Getz.
 ' It is not to be altered or distributed, 'except as part of an application.
